@@ -110,8 +110,8 @@ function doPost(e) {
     }
 
     const userName = get_user_name();
-    const contion_1 = (groupID == "Cb542b5c2b14375e412caaee077240933");  //在網站存檔群組
-    const contion_2 = (groupID == "C8695eb7b46fc02fc78d309e6211577d9");  //在感恩日記群組
+    const contion_1 = (groupID == GROUP_ID);  //在網站存檔群組
+    const contion_2 = (groupID == GROUP_ID);  //在感恩日記群組
     const reply_1 = ["做得很好", "今天辛苦了！", "記起了～", "好的，祝你有個美好的一天"];
     const random_reply_1 = reply_1[Math.floor(Math.random() * reply_1.length)];  //隨機罐頭文字
 
