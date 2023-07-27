@@ -1,3 +1,8 @@
+![Google Script](https://img.shields.io/badge/Google%20Script-%E2%9C%93-yellowgreen)
+![JavaScript](https://img.shields.io/badge/JavaScript-%E2%9C%93-yellow)
+![Google Drive](https://img.shields.io/badge/Google%20Drive-%E2%9C%93-blue)
+![Line Linehook](https://img.shields.io/badge/Line%20Linehook-%E2%9C%93-lightgrey)
+
 # linebot_manageUrl
 一個管理大量連結網站的LINEBOT APP，運用LINE提供的官方帳號webhook開發者功能，製作出適合自己管理網站連結的app
 
