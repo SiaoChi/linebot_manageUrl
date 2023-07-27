@@ -1,5 +1,5 @@
 # linebot_manageUrl
-一個管理大量連結網站的LINEBOT APP
+一個管理大量連結網站的LINEBOT APP，運用LINE提供的官方帳號webhook開發者功能，製作出適合自己管理網站連結的app
 
 ## Main Feature
 1. 在特定群組傳訊，如「#docekr https://docker.com」("{tag} {url}")，資訊會儲存在雲端Google Sheet
@@ -15,9 +15,10 @@
 - Google Script
 - Google Sheet
 
-### Demo 
+## Demo 
 #### 輸入儲存指令：tag+空白+url
 <img width="542" alt="截圖 2023-07-27 下午4 00 57" src="https://github.com/SiaoChi/linebot_manageUrl/assets/98171354/df67f253-f56b-4134-ad23-4f4b70102f8c">
+
 #### 輸入找資訊指令：凱莉找
 <img width="541" alt="截圖 2023-07-27 下午4 01 14" src="https://github.com/SiaoChi/linebot_manageUrl/assets/98171354/c66dc101-207e-4072-b42e-2ec0d7ad3170">
 
