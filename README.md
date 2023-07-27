@@ -1,4 +1,5 @@
 # linebot_manageUrl
+一個管理大量連結網站的LINEBOT APP
 
 ## Main Feature
 1. 在特定群組傳訊，如「#docekr https://docker.com」("{tag} {url}")，資訊會儲存在雲端Google Sheet
